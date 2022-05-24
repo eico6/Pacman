@@ -6,7 +6,7 @@
 - Author: Eivind Hobrad Naasen
 - Date: December 5th, 2019
 - IDE: QtCreator 4.9.2
-- Version: C++11
+- Language: C++11
 
 ## Preview
 ![](pacman_preview.gif)
