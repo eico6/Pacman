@@ -1,5 +1,5 @@
 ## Description
-- This is a simplified replica of the original "Pac-Man" game release in 1980 by "Namco".
+This is a simplified replica of the original "Pac-Man" game release in 1980 by "Namco".
 
 ##  Author
 - Eivind Hobrad Naasen
