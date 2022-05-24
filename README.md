@@ -1,4 +1,4 @@
-##Description
+## Description
 - This is a simplified replica of the original "Pac-Man" game release in 1980 by "Namco".
 
 ##  Author
@@ -12,4 +12,5 @@
 ## Note
 - This project was the exam delivery of the course "Programming 1" at "Inland Norway University of Applied Sciences".
 
+## Preview
 ![](pacman_preview.gif)
